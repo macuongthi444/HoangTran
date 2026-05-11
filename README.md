@@ -1,10 +1,8 @@
 # HoangTran 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macuongthi444&show_icons=true&theme=radical&cache_seconds=1800&include_all_commits=true" alt="HoangTran's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macuongthi444&layout=compact&theme=radical&cache_seconds=1800&hide=jupyter%20notebook" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=macuongthi444&show_icons=true&theme=tokyonight&cache_seconds=1800&include_all_commits=true&hide=contribs" alt="HoangTran's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macuongthi444&layout=compact&theme=tokyonight&cache_seconds=1800&hide=jupyter%20notebook" alt="Top Languages" /></div>
 
 ---
 

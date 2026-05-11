@@ -1,50 +1,44 @@
 # HoangTran 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macuongthi444&show_icons=true&theme=tokyonight&cache_seconds=1800&include_all_commits=true&hide=contribs" alt="HoangTran's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macuongthi444&layout=compact&theme=tokyonight&cache_seconds=1800&hide=jupyter%20notebook" alt="Top Languages" /></div>
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-five-xi-88.vercel.app/api?username=macuongthi444&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800" alt="HoangTran's GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-five-xi-88.vercel.app/api/top-langs/?username=macuongthi444&layout=compact&theme=tokyonight&hide=jupyter%20notebook&cache_seconds=1800" alt="Top Languages" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=macuongthi444&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=macuongthi444&show_icons=true&theme=radical&hide_rank=false&include_all_commits=true&count_private=false&cache_seconds=1800)
-
-### 🔥 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macuongthi444&layout=compact&theme=radical&hide=jupyter%20notebook&cache_seconds=1800)
-
-### 🌟 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=macuongthi444&theme=radical)
-
----
-
-## 📌 Pinned Projects
-
-<!-- Bạn có thể thêm GitHub Extra Pins ở đây sau -->
+- 🔭 **Currently working on**: ...
+- 🌱 **Learning**: ...
+- 💡 **Interests**: ...
+- 📫 **How to reach me**: ...
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: ...
-- **Frameworks**: ...
-- **Tools**: ...
+**Languages & Frameworks:**
+- ...
 
-*(Bạn có thể chỉnh lại phần này sau)*
+**Tools & Platforms:**
+- ...
 
----
-
-## 📫 Connect With Me
-
-<!-- Thêm link mạng xã hội, email... -->
+*(Bạn hãy chỉnh lại phần này cho phù hợp với kỹ năng của mình)*
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macuongthi444&show_icons=true&theme=radical&hide=contribs,prs&cache_seconds=1800" alt="Stats" />
-</div>
+## 📌 Pinned Projects
+
+<!-- Thêm GitHub Extra Pins ở đây sau nếu muốn -->
 
 ---
 
